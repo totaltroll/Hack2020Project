@@ -1,2 +1,2 @@
 # Hack2020Project
-Aiming for a fruitful learning
+Aiming for a fruitful learning with this Hactoberfest
